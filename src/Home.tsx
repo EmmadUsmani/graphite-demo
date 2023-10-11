@@ -1,3 +1,10 @@
+import { Button } from "./Button"
+
 export function Home() {
-  return <div>home</div>
+  return (
+    <div>
+      home
+      <Button />
+    </div>
+  )
 }
