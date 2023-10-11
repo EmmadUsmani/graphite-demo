@@ -1,3 +1,3 @@
 export function Button() {
-  return <button>Some button</button>
+  return <button>a button</button>
 }
